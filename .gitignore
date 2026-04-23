@@ -1,0 +1,17 @@
+# env files
+.env
+.env.*
+# Node
+node_modules/
+dist/
+
+# Java
+target/
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
